@@ -16,6 +16,7 @@ Write a program in C++ to print the following pattern
 
 
 Ans :
+```
 #include <iostream>
 using namespace std;
 
@@ -42,7 +43,7 @@ int main() {
 	return 0;
 	
 }
-
+```
 
 Question 2:-
 Find all substrings of a given string that contains all characters of other string.
@@ -56,7 +57,7 @@ substring ‘YZX’ present at index 6
 substring ‘XYZ’ present at index 9
 
 Ans :
-
+```
 #include <iostream>
 #include<string.h>
 using namespace std;
@@ -92,3 +93,4 @@ int main() {
     
 	return 0;
 }
+```
